@@ -37,6 +37,9 @@ We use **Angular Signals** combined with a singleton service pattern (`GeminiSer
 - **Glassmorphism & Modern Accents**: Subtle blurs and indigo/purple gradients create a premium, tech-forward feel.
 - **Responsive Modals**: A custom `JobDetailComponent` with high z-index and backdrop filters ensures a focused viewing experience on any device.
 
+### Demo Video
+<video controls src="Job scout demo.mp4" title="Title"></video>
+
 ## 🛠 Setup & Installation
 
 ### Prerequisites
