@@ -58,6 +58,7 @@ Create a `.env` file (or set environment variables) with your Gemini API Key:
 ```env
 GEMINI_API_KEY=your_api_key_here
 ```
+Or update the environment.ts with the API Key
 
 ### Running the App
 To start the development server:
