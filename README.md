@@ -38,7 +38,7 @@ We use **Angular Signals** combined with a singleton service pattern (`GeminiSer
 - **Responsive Modals**: A custom `JobDetailComponent` with high z-index and backdrop filters ensures a focused viewing experience on any device.
 
 ### Demo Video
-<video controls src="Job scout demo.mp4" title="Title"></video>
+[Watch the Demo Video](./Job%20scout%20demo.mp4)
 
 ## 🛠 Setup & Installation
 
