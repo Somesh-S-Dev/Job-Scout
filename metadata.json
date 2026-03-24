@@ -1,0 +1,5 @@
+{
+  "name": "JobScout AI",
+  "description": "A smart job search assistant that uses AI to find jobs, analyze your resume, and generate tailored cover letters.",
+  "requestFramePermissions": []
+}
