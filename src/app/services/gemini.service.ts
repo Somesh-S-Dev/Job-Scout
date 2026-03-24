@@ -1,6 +1,6 @@
 import { Injectable, inject, signal } from '@angular/core';
 import { GoogleGenAI } from '@google/genai';
-import { environment } from '../../environments/environment';
+import { environment } from '../../environments/environment.ts.example';
 import { UserService } from './user.service';
 
 export interface Job {
